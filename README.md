@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Dulal%20Ahmed&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Dulal%20Ahmed&fontSize=50&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <sub>💻 Web Developer</sub>
 </p>
 
 <p align="center">
