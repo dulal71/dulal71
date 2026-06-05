@@ -54,7 +54,8 @@ My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless
 </td>
   </tr>
 </table>
-## 🎯 My Core Focus
+
+## 🚀 My Core Focus
 
 - 💻 **Frontend Engineering:** Creating responsive, user-friendly, and pixel-perfect UIs using **React.js** and modern CSS frameworks.
 - ⚙️ **Backend & APIs:** Architecting robust server-side logic, RESTful APIs, and secure authentication models using **Node.js** and **Express.js**.
