@@ -98,16 +98,24 @@ My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless
 
 ## 📈 GitHub Activity Graph
 
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulal71&theme=tokyonight" alt="Dulal's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulal71&bg_color=121319&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=16263f&hide_border=false&border_color=30363d&title_color=58a6ff" alt="GitHub Activity Graph" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulal71&label=PROFILE+VIEWS&color=00C2FF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dulal71&label=PROFILE+VIEWS&color=00C2FF&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
   ⭐ From **[dulal71](https://github.com/dulal71)** — Thanks for stopping by!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=121319&height=60&section=footer" width="100%" />
 </p>
