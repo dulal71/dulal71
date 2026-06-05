@@ -17,10 +17,10 @@
   <a href="https://dev.to/yourprofile" target="_blank">
     <img src="https://img.shields.io/badge/Daily%20Dev-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
-  <a href="https://yourwebsite.com" target="_blank">
+  <a href="https://my-portfolio-dulal-ahmed.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="ahmeddulal4211@gamil.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
