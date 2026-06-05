@@ -1,11 +1,53 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Dulal%20Ahmed&fontSize=50&fontColor=ffffff&subText=Full%20Stack%20Web%20Developer&subTextSize=25&subTextColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=220&section=header&text=Dulal%20Ahmed&fontSize=50&fontColor=ffffff&subText=MERN%20Stack%20%7C%20Full%20Stack%20Web%20Developer&subTextSize=22&subTextColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Hello+Visitor+👋;Welcome+to+my+Full+Stack+Portfolio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Hello+Visitor+👋;Welcome+to+my+Portfolio!;I+build+modern+web+applications.;Let's+create+something+awesome!" />
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/dulal-ahmed-19" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dulal-ahmed-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
+  </a>
+  <a href="https://dev.to/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/Daily%20Dev-000000?style=for-the-badge&logo=dev.to&logoColor=white" alt="Daily Dev"/>
+  </a>
+  <a href="mailto:ahmeddulal4211@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<hr>
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" height="28" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" height="28" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" height="28" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" height="28" alt="React" />
+  
+  <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" height="28" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" height="28" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A41D.svg?style=flat-square&logo=mongodb&logoColor=white" height="28" alt="MongoDB" />
+  
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" height="28" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" height="28" alt="Vercel" />
+</p>
+
+<hr>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Dulal's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
 <p align="center">
   👨‍💻 **Full Stack Web Developer** | Specialized in MERN Stack & Modern Web Ecosystems | Crafting Scalable, High-Performance Web Applications & Seamless User Experiences
 </p>
