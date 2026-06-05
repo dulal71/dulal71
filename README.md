@@ -29,12 +29,18 @@
 
 ## 🚀 About Me
 
-I am a passionate **Full Stack Web Developer** focused on building robust and scalable web applications. Currently an Honors 3rd-year student, I balance academic learning with intensive software development training. I love bridging the gap between elegant frontend interfaces and secure, optimized backend services.
+I am a highly motivated **Full Stack Web Developer** driven by a passion for solving complex problems and building efficient web solutions. Currently pursuing my **Honors 3rd Year**, I actively bridge academic excellence with rigorous hands-on software development. 
 
-- 🎓 **Education:** Honors 3rd Year Student
-- 💡 **Core Focus:** MERN Stack Development (MongoDB, Express.js, React.js, Node.js)
-- 🌱 **Currently Leveling Up:** Next.js, TypeScript, and Advanced Backend Architecture
-- 🎯 **Career Goal:** To work as a Professional Full Stack Engineer in a fast-paced environment
+My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless, pixel-perfect frontend interfaces and couple them with secure, optimized backend services. I thrive in continuous learning environments and constantly level up my skills to match modern industry standards.
+
+---
+
+## 🎯 My Core Focus
+
+- 💻 **Frontend Engineering:** Creating responsive, user-friendly, and pixel-perfect UIs using **React.js** and modern CSS frameworks.
+- ⚙️ **Backend & APIs:** Architecting robust server-side logic, RESTful APIs, and secure authentication models using **Node.js** and **Express.js**.
+- 🗄️ **Database Management:** Structuring and managing dynamic data efficiently using NoSQL solutions like **MongoDB**.
+- 📈 **Performance & Best Practices:** Writing clean, maintainable, and reusable code with a strong emphasis on component optimization and SEO friendliness.
 
 ---
 
@@ -60,24 +66,12 @@ I am a passionate **Full Stack Web Developer** focused on building robust and sc
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics & Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulal71&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Dulal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulal71&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Dulal's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulal71&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulal71&color=00c2ff&style=flat-square" alt="Profile Visitors" />
-</p>
-
----
-
-## 🐍 Contribution History
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dulal71/dulal71/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<p align="right">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"/>
-</p>
+  <img src="
