@@ -85,10 +85,10 @@ My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless
 
 ---
 
-## 📊 GitHub Analytics & Insights
 
-## 📊 GitHub Analytics
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dulal71&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulal71&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
