@@ -17,9 +17,9 @@
   <a href="https://my-portfolio-dulal-ahmed.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="ahmeddulal4211@gamil.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+ <a href="mailto:ahmeddulal4211@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 </p>
 
 ---
