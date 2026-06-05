@@ -93,3 +93,21 @@ My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulal71&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dulal71&theme=tokyonight" alt="Dulal's Activity Graph" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dulal71&label=PROFILE+VIEWS&color=00C2FF&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
+  ⭐ From **[dulal71](https://github.com/dulal71)** — Thanks for stopping by!
+</p>
