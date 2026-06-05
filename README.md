@@ -33,7 +33,7 @@ My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless
 ---
 <table border="0" width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       <h2>🚀 What I'm Up To</h2>
       <ul>
         <li>💻 Developing full-stack applications using the <strong>MERN Stack</strong> (MongoDB, Express, React, Node.js).</li>
@@ -43,8 +43,8 @@ My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless
       </ul>
     </td>
     
-    <td width="45%" align="center" valign="middle">
-      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b80c1d343f98edd/1504207901038-Z98Y0WIJ2U2Z6PAG1CHM/developer.gif" alt="Coding Animation" width="100%" />
+    <td width="40%" align="center" valign="top">
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b80c1d343f98edd/1504207901038-Z98Y0WIJ2U2Z6PAG1CHM/developer.gif" alt="Coding Animation" width="380" />
     </td>
   </tr>
 </table>
