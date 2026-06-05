@@ -31,7 +31,23 @@ I am a highly motivated **Full Stack Web Developer** driven by a passion for sol
 My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless, pixel-perfect frontend interfaces and couple them with secure, optimized backend services. I thrive in continuous learning environments and constantly level up my skills to match modern industry standards.
 
 ---
-
+<table border="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h2>🚀 What I'm Up To</h2>
+      <ul>
+        <li>💻 Developing full-stack applications using the <strong>MERN Stack</strong> (MongoDB, Express, React, Node.js).</li>
+        <li>🛠️ Crafting clean, responsive, and user-friendly front-end interfaces.</li>
+        <li>📚 Exploring advanced JavaScript, API integration, and performance optimization.</li>
+        <li>🌱 Open for collaborating on interesting open-source projects and freelance roles.</li>
+      </ul>
+    </td>
+    
+    <td width="45%" align="center" valign="middle">
+      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b80c1d343f98edd/1504207901038-Z98Y0WIJ2U2Z6PAG1CHM/developer.gif" alt="Coding Animation" width="100%" />
+    </td>
+  </tr>
+</table>
 ## 🎯 My Core Focus
 
 - 💻 **Frontend Engineering:** Creating responsive, user-friendly, and pixel-perfect UIs using **React.js** and modern CSS frameworks.
