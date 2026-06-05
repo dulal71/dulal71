@@ -44,10 +44,10 @@ My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless
     </td>
     
     <td width="40%" align="center" valign="top">
-      <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b80c1d343f98edd/1504207901038-Z98Y0WIJ2U2Z6PAG1CHM/developer.gif" alt="Coding Animation" width="380" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzbnduNms5Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="350" />
     </td>
   </tr>
-</table>
+</table> 
 ## 🎯 My Core Focus
 
 - 💻 **Frontend Engineering:** Creating responsive, user-friendly, and pixel-perfect UIs using **React.js** and modern CSS frameworks.
