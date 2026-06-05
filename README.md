@@ -31,23 +31,29 @@ I am a highly motivated **Full Stack Web Developer** driven by a passion for sol
 My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless, pixel-perfect frontend interfaces and couple them with secure, optimized backend services. I thrive in continuous learning environments and constantly level up my skills to match modern industry standards.
 
 ---
-<table border="0" width="100%">
+<table>
   <tr>
     <td width="60%" valign="top">
-      <h2>🚀 What I'm Up To</h2>
-      <ul>
-        <li>💻 Developing full-stack applications using the <strong>MERN Stack</strong> (MongoDB, Express, React, Node.js).</li>
-        <li>🛠️ Crafting clean, responsive, and user-friendly front-end interfaces.</li>
-        <li>📚 Exploring advanced JavaScript, API integration, and performance optimization.</li>
-        <li>🌱 Open for collaborating on interesting open-source projects and freelance roles.</li>
-      </ul>
-    </td>
-    
-    <td width="40%" align="center" valign="top">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHIzbnduNms5Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" width="350" />
-    </td>
+
+## 🚀 What I'm Up To
+
+- 💻 Developing full-stack applications using the **MERN Stack**.
+- 🌱 Exploring **Next.js** and modern web technologies.
+- 🛠️ Building scalable and user-friendly web applications.
+- 📚 Continuously improving problem-solving and development skills.
+- 🎯 Seeking opportunities to contribute to impactful projects.
+
+   </td>
+
+   <td width="40%" align="center">
+      <img
+        src="https://illustrations.popsy.co/amber/web-developer.svg"
+        alt="Web Developer Illustration"
+        width="320"
+      />
+   </td>
   </tr>
-</table> 
+</table>
 ## 🎯 My Core Focus
 
 - 💻 **Frontend Engineering:** Creating responsive, user-friendly, and pixel-perfect UIs using **React.js** and modern CSS frameworks.
