@@ -87,15 +87,13 @@ My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless
 
 ## 📊 GitHub Analytics & Insights
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dulal71&show_icons=true&theme=tokyonight"
-    height="180"
-    alt="Dulal's GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulal71&layout=compact&theme=tokyonight"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dulal71&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulal71&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dulal71&theme=tokyonight" />
 </p>
