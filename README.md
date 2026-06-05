@@ -45,13 +45,13 @@ My expertise lies in the **MERN Stack** ecosystem, where I architecture seamless
 
    </td>
 
-   <td width="40%" align="center">
-      <img
-        src="https://illustrations.popsy.co/amber/web-developer.svg"
-        alt="Web Developer Illustration"
-        width="320"
-      />
-   </td>
+<td width="40%" align="center">
+  <img
+    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+    width="300"
+    alt="Developer"
+  />
+</td>
   </tr>
 </table>
 ## 🎯 My Core Focus
